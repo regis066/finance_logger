@@ -1,5 +1,4 @@
-"use strict";
-class Invoice {
+export class Invoice {
     // client: string;
     // details: string;
     // amount: number;
